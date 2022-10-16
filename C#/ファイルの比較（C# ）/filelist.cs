@@ -1,4 +1,3 @@
-//内容参照サイト：https://qiita.com/neomi/items/3076f97af4eb5685bbe0
 using System;
 using System.IO;
 using System.Security.Cryptography;
